@@ -33,6 +33,8 @@ If you want to know more detailed information, please refer to the following pap
 
 Fan Zhang, Hanhua Chen, Hai Jin, Pedro Reviriego. "The Logarithmic Dynamic Cuckoo Filter." in Proceedings of 37th IEEE International Conference on Data Engineering (ICDE 2021), Chania, Crete, Greece, April 19-22, 2021.
 
+Hanhua Chen, Liangyi Liao, Hai Jin, Jie Wu. ["The Dynamic Cuckoo Filter."](https://ieeexplore.ieee.org/document/8117563) in Proceedings of the 25th IEEE International Conference on Network Protocols (ICNP 2017), Toronto, Canada, Oct. 10-13, 2017.
+
 
 ## Author and Copyright
 
