@@ -1,5 +1,5 @@
 # LDCF
-The LogarithmiclDynamic Cuckoo Filter (LDCF) is an efficient approximate membership test data strucutre for dynamic big data sets. LDCF uses a novel multi-level tree structure and reduces the worst insertion and membership testing time from O(N) to O(1), where N is the size of the set. At the same time, LDCF reduces the memory cost of [DCF](https://github.com/CGCL-codes/DCF) as the cardinality of the set increases.
+The Logarithmicl Dynamic Cuckoo Filter (LDCF) is an efficient approximate membership test data strucutre for dynamic big data sets. LDCF uses a novel multi-level tree structure and reduces the worst insertion and membership testing time from O(N) to O(1), where N is the size of the set. At the same time, LDCF reduces the memory cost of [DCF](https://github.com/CGCL-codes/DCF) as the cardinality of the set increases.
 
 ## Environment
 We implement DCF with an Intel(R) Core(TM) i5-2430M CPU @2.4GHz and OpenSSL library environment.
