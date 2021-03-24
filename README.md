@@ -35,6 +35,7 @@ Fan Zhang, Hanhua Chen, Hai Jin, Pedro Reviriego. "The Logarithmic Dynamic Cucko
 
 Hanhua Chen, Liangyi Liao, Hai Jin, Jie Wu. ["The Dynamic Cuckoo Filter."](https://ieeexplore.ieee.org/document/8117563) in Proceedings of the 25th IEEE International Conference on Network Protocols (ICNP 2017), Toronto, Canada, Oct. 10-13, 2017. ([https://github.com/CGCL-codes/DCF](https://github.com/CGCL-codes/DCF))
 
+Feiyue Wang, Hanhua Chen, Liangyi Liao, Fan Zhang, Hai Jin. ["The Power of Better Choice: Reducing Relocations in Cuckoo Filter."](https://ieeexplore.ieee.org/document/8885169) in Proceedings of 39th IEEE International Conference on Distributed Computing Systems (ICDCS 2019), Dallas, Texas, USA, July 7-10, 2019. ([https://github.com/CGCL-codes/BCF](https://github.com/CGCL-codes/BCF))
 
 ## Author and Copyright
 
